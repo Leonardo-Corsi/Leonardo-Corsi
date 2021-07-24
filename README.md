@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Leonardo-Corsi
-- 👀 I’m interested in all the works of man which attend to human kind
-- 🌱 I’m currently learning biomedical engineering
-- 📫 How to reach me: leonardo.corsi.app@gmail.com or leonardo.corsi4@stud.unifi.it
